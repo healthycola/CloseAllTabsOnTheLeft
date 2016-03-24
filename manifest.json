@@ -12,7 +12,7 @@
   },
   "commands": {
     "close-all-left-tabs": {
-      "suggested_key": { "default": "Ctrl+Shift+Q", "mac": "MacCtrl+Shift+Q" },
+      "suggested_key": { "default": "Alt+Shift+Q" },
       "description": "Close all tabs on the left of current tab"
     }
   },

@@ -3,7 +3,7 @@
 
   "name": "Close All Tabs On Left",
   "description": "Closes all tabs on the left of current tab",
-  "version": "1.0",
+  "version": "1.1",
   "background": {
     "scripts": ["background.js"]
   },
